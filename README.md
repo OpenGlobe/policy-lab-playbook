@@ -7,7 +7,7 @@ The core of these plays were developed by the class through an in-class workshop
 
 ## 1. Trust the process. 
 
-When you have worked in government for so long, it can feel uncomfortable at first to experience an entirely new way of working. Lean into it. Human-centered design and agile require a shift in mindset. You may find that students needed to pivot from the original project brief after discovering through talking with constituents that they have different needs than you originally thought. That's ok. This reframe can not only lead to solving real problems for constituents but also working more nimbly and using resources more efficiently and effectively. 
+New ways of working, especially those that use human-centered design can feel unfamiliar and uncomfortable. Lean into it. Human-centered design and agile require a shift in mindset. Students may need to change focus after talking to consituents and confirm different needs.  That's ok. This reframe can not only lead to solving real problems for constituents but also working more nimbly and using resources more efficiently and effectively. 
 
 **Frame the problem you want to solve through the point of view of the constituent.**
 
