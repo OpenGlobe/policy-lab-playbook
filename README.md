@@ -1,6 +1,8 @@
 # Policy Innovation Lab Playbook
 Carnegie Mellon University's Policy Innovation Lab Playbook. This playbook is designed to provide both students and future partners of the lab with guidelines, tips, and strategies for success during the course.
 
+The core of these plays were developed by the class through an in-class workshop held on May 1st, 2019.  Participants reviewed plays, developed themes and highlighted leading lessons learned from the course.  See the credits for the list of CMU students who participated in and helped write and develop these plays. 
+
 # Policy Innovation Lab Plays
 
 ## 1. Trust the process. 
@@ -103,7 +105,7 @@ The initial understanding of the project can change quickly, either through inte
 
 It's never too late to do a user interview. The class length is short, and some interviewees may not reveal themselves until the end. Even if they do not directly impact the direction of your project, the information gained will still be valuable for the client and could influence the next stages.
 
-More often than not, projects will be non-linear. Keep moving forward. 
+**More often than not, projects will be non-linear. Keep moving forward.**
 
 Each time you receive more information use this as a chance to enhance or potentially recreate your product. Learning more from your client will help shape how you continue your work, even if this means pivoting to a new direction. 
 
@@ -151,5 +153,8 @@ Tiffany Zhu
 ## Inspiration
 
 “The Digital Services Playbook — from the U.S. Digital Service.” Accessed April 29, 2019. https://playbook.cio.gov/.
+
+“18F: Digital Service Delivery | 18F Partnership Principles.” Accessed May 1, 2019. https://18f.gsa.gov/partnership-principles/.
+
 
 
