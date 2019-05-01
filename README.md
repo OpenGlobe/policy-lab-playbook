@@ -15,7 +15,7 @@ As you create a project brief for Policy Innovation Lab, put yourself in the sho
 
 Students need to do user research activities, like interviewing and prototype testing, in order to practice human-centered design. User research will also lead to greater impact. As you develop your project brief for Policy Innovation Lab, ask various stakeholders if it would be ok if students reached out to you during the semester. Also be open to students utilizing or developing their own contacts for user research.
 
-**Needs are verbs; solutions are nouns.
+**Needs are verbs; solutions are nouns.**
  
 As you create a project brief for Policy Innovation Lab, start with understanding what your constituents need. If you think about these needs as verbs instead of nouns (e.g., "I need to escape the rain" instead of "I need an umbrella), you will open up the realm of possibility for what students can create as solutions that serve real needs. 
 
@@ -23,15 +23,15 @@ As you create a project brief for Policy Innovation Lab, start with understandin
 
 Being on the same page with the client about what they expect and what we can deliver is crucial. A lot of time and effort can be wasted if the group is working under different assumptions than the client. 
 
-**Keep checking in with client as project evolves**
+**Keep checking in with client as project evolves.**
 
 Your project will probably change over time, be sure to keep your client in the loop as it does. This sets clear expectations for both of you and allows you to incorporate their feedback on every iteration, instead of surprising them at the end with a product they do not want or need. 
 
-**Understand the difference between your client and your end-user**
+**Understand the difference between your client and your end-user.**
 
 Your client is likely asking you to create something that they can then take to distribute to a third party. Understand that your client may not actually know exactly what the end user is looking for. Push to talk to end users and understand their needs. Clients ultimately want to deliver something with utility and so it’s in your best interest to really make something users will benefit from. 
 
-**Dedicate one main client contact**
+**Dedicate one main client contact.**
 
 This will usually be the PM, but its important to have one group member be the client contact for the entire group. This streamlines client communication and cuts down on possible confusion and client annoyance (this can happen if the client is getting multiple emails from multiple people telling them the same thing, or worse, different things!).
 
@@ -130,7 +130,23 @@ Oftentimes project teams, clients, and stakeholders get entrenched in their resp
 ## 7.  Have realistic expectations for your team. 
 
 # Contributors (SP 19)
-[Add names from final workshop contributors] 
+Mutiat Alagbala
+Aimen Awan
+Chris Bell
+Johnny Brame
+Meghan Brown
+Juliana Cotto
+Peter Huether
+Mehr Asma Javed
+Amanda Kennedy
+Alex Kluge
+Jana Laks
+Sara Pesi
+Diana Rafenello
+Gilbert Resendez
+Bobby Sebastian
+Tyler Stern
+Tiffany Zhu
 
 ## Inspiration
 
