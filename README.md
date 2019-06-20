@@ -1,47 +1,53 @@
 # Policy Innovation Lab Playbook
 Carnegie Mellon University's Policy Innovation Lab Playbook. This playbook is designed to provide both students and future partners of the lab with guidelines, tips, and strategies for success during the course.
 
-The core of these plays were developed by the class through an in-class workshop held on May 1st, 2019.  Participants reviewed plays, developed themes and highlighted leading lessons learned from the course.  See the credits for the list of CMU students who participated in and helped write and develop these plays. 
+The core of these plays were originally developed by the first class during a workshop held on May 1st, 2019.  Participants reviewed plays, developed themes and highlighted leading lessons learned from the course.  See the credits for the list of CMU students who participated in and helped write and develop these plays. 
+
+These plays are edited and continually revised by each subsequent class.  We also welcome contributions from the broader civic tech / public interest technology field.  You can suggest a change or addition by opening an issue. 
 
 # Policy Innovation Lab Plays
 
 ## 1. Trust the process. 
 
-New ways of working, especially those that use human-centered design can feel unfamiliar and uncomfortable. Lean into it. Human-centered design and agile require a shift in mindset. Students may need to change focus after talking to consituents and confirm different needs.  That's ok. This reframe can not only lead to solving real problems for constituents but also working more nimbly and using resources more efficiently and effectively. 
+_One of the most difficult things for new students to adapt to in the early weeks of the course is the speed at which projects tend to evolve when agile methods and user centered design are applied.  This is equally difficult, if not more so for partners to adjust to._
 
-**Frame the problem you want to solve through the point of view of the constituent.**
-
-As you create a project brief for Policy Innovation Lab, put yourself in the shoes of the constituents impacted by your project. Having a constituent-centric mindset will get you on the same page as the students and ultimately create projects that have greater impact.
-
-**Be open to user research.**
-
-Students need to do user research activities, like interviewing and prototype testing, in order to practice human-centered design. User research will also lead to greater impact. As you develop your project brief for Policy Innovation Lab, ask various stakeholders if it would be ok if students reached out to you during the semester. Also be open to students utilizing or developing their own contacts for user research.
+New ways of working, especially those that use human-centered design can feel unfamiliar and uncomfortable. Lean into it. Human-centered design and agile require a shift in mindset. Students may need to change focus after talking to project stakeholders and confirm different needs.  That's ok. This reframing of the original problem can not only lead to identifying the real issue but also result in work that is more nimble and uses resources more efficiently and effectively. 
 
 **Needs are verbs; solutions are nouns.**
  
 As you create a project brief for Policy Innovation Lab, start with understanding what your constituents need. If you think about these needs as verbs instead of nouns (e.g., "I need to escape the rain" instead of "I need an umbrella), you will open up the realm of possibility for what students can create as solutions that serve real needs. 
 
-## 2. Set expectations with your client early and keep the process transparent. 
+**Frame the problem you're trying to solve through the point of view of the users.**
 
-Being on the same page with the client about what they expect and what we can deliver is crucial. A lot of time and effort can be wasted if the group is working under different assumptions than the client. 
+For stakeholders this means putting yourself in the shoes of your users when creating the initial brief for the course. Focus on the problem you are trying to solve, and avoid solutionizing.  Instead, try to as clearly as possible identify the real underlying problem. Having a user-centric mindset will get you on the same page as the students and ultimately create projects that have greater impact.
 
-**Keep checking in with client as project evolves.**
+For students, read the project brief and try to address the underlying problem the brief is trying to solve.  
 
-Your project will probably change over time, be sure to keep your client in the loop as it does. This sets clear expectations for both of you and allows you to incorporate their feedback on every iteration, instead of surprising them at the end with a product they do not want or need. 
+**Be open to user research.**
 
-**Understand the difference between your client and your end-user.**
+Students need to do user research activities, like interviewing and prototype testing, in order to practice human-centered design. User research will also lead to greater impact. As you develop your project brief for Policy Innovation Lab, ask various stakeholders if it would be ok if students reached out to you during the semester. Also be open to students utilizing or developing their own contacts for user research.
 
-Your client is likely asking you to create something that they can then take to distribute to a third party. Understand that your client may not actually know exactly what the end user is looking for. Push to talk to end users and understand their needs. Clients ultimately want to deliver something with utility and so it’s in your best interest to really make something users will benefit from. 
+## 2. Set expectations with your partner early and keep the process transparent. 
 
-**Dedicate one main client contact.**
+Being on the same page with the partner about what they expect and what we can deliver is crucial. A lot of time and effort can be wasted if the group is working under different assumptions than the partner. 
 
-This will usually be the PM, but its important to have one group member be the client contact for the entire group. This streamlines client communication and cuts down on possible confusion and client annoyance (this can happen if the client is getting multiple emails from multiple people telling them the same thing, or worse, different things!).
+**Keep checking in with partner as project evolves.**
+
+Your project will probably change over time, be sure to keep your partner in the loop as it does. This sets clear expectations for both of you and allows you to incorporate their feedback on every iteration, instead of surprising them at the end with a product they do not want or need. 
+
+**Understand the difference between your partner and your end-user.**
+
+Your partner is likely asking you to create something that they can then take to distribute to a third party. Understand that your partner may not actually know exactly what the end user is looking for. Push to talk to end users and understand their needs. partners ultimately want to deliver something with utility and so it’s in your best interest to really make something users will benefit from. 
+
+**Dedicate one main partner contact.**
+
+This will usually be the PM, but its important to have one group member be the partner contact for the entire group. This streamlines partner communication and cuts down on possible confusion and partner annoyance (this can happen if the partner is getting multiple emails from multiple people telling them the same thing, or worse, different things!).
 
 ## 3. Embrace openness and the technology tools of the class
 
 At first, you can think using a public Trello board and Slack is odd. However, as we prepare to be policymakers and civil servants, it's important to get comfortable with transparency about the process (since taxpayers are entrusting us to make decisions on their behalf). Also, these are pretty cool tools to learn.
 
-Keep prototyping and prepare client facing documents with a lot of check out. Know from the beginning all your materials and organizing channels are going to be available to professors, clients, and Team PA. Getting your mind around this early can think about how best to communicate and organize documents and organizing tools.
+Keep prototyping and prepare partner facing documents with a lot of check out. Know from the beginning all your materials and organizing channels are going to be available to professors, partners, and Team PA. Getting your mind around this early can think about how best to communicate and organize documents and organizing tools.
 
 ## 4. Set team protocols, expectations, and roles early. Stick to them. 
 
@@ -55,7 +61,7 @@ Makes sure that your group sits down as soon as possible and establish who will 
 
 **Assign "owners" of deliverables and stick to them**
 
-This class can have a lot of deliverables (both client-facing and non-client-facing) depending on your client and what the final work product is. Making sure you know who is responsible for what will make turning in deliverables and getting things done much easier.
+This class can have a lot of deliverables (both partner-facing and non-partner-facing) depending on your partner and what the final work product is. Making sure you know who is responsible for what will make turning in deliverables and getting things done much easier.
 
 **Assign work to individuals and set intermittent deadlines.**
 
@@ -67,7 +73,7 @@ Summary: Developing and ensuring continued trust among team members is essential
 
 **Maintain reasonably frequent communication with other team members.** 
 
-Between other obligations and busy schedules, try to touch base with other team members frequently outside of class to ensure you are not recreating work or miscommunicating. This will ensure you are ready to speak with your client or share updates when asked in class. 
+Between other obligations and busy schedules, try to touch base with other team members frequently outside of class to ensure you are not recreating work or miscommunicating. This will ensure you are ready to speak with your partner or share updates when asked in class. 
 
 ## 6. Don’t be afraid to scrap a potential deliverable if it no longer makes sense. 
 
@@ -81,15 +87,15 @@ Summary: This course is process-driven.  Process requires learning from mistakes
 
 It is very easy to pursue projects that are low impact with a manageable scope or that have high impact but an unrealistic scope. It is vital to identify a deliverable that has a manageable scope with a moderate to high impact. 
 
-Be realistic about what you can complete in the time frame that will be most impactful and get client feedback. With scoping as you work toward your final deliverable keep a master document that has all the information so you have a nice organized document of what was accomplished and what is left to do to hand off to the client.
+Be realistic about what you can complete in the time frame that will be most impactful and get partner feedback. With scoping as you work toward your final deliverable keep a master document that has all the information so you have a nice organized document of what was accomplished and what is left to do to hand off to the partner.
 
 ## 8. Develop a flexible, iterative timeline early
 
-The weeks will fly by being able to look ahead and think about what is happening the following week can help you more effectively manage your time. Make sure you know the progress and the steps in the process and map out deliverable due dates so that you can ensure you are meeting them. That means checking syllabus and working with professor and client, so you know what deliverables they are expecting throughout the semester. Read up on Scrum and Agile methods so you know what to expect and assign roles to complete task.
+The weeks will fly by being able to look ahead and think about what is happening the following week can help you more effectively manage your time. Make sure you know the progress and the steps in the process and map out deliverable due dates so that you can ensure you are meeting them. That means checking syllabus and working with professor and partner, so you know what deliverables they are expecting throughout the semester. Read up on Scrum and Agile methods so you know what to expect and assign roles to complete task.
 
 **Learn to pivot.**
 
-There's inevitably going to be a client meeting or interview or article that you read that makes you think you're trending in the wrong direction (it might even be week 4). But it's okay to pivot (strategically). All the work you did wasn't for not.
+There's inevitably going to be a partner meeting or interview or article that you read that makes you think you're trending in the wrong direction (it might even be week 4). But it's okay to pivot (strategically). All the work you did wasn't for not.
 
 **Be flexible and comfortable with change.** 
 
@@ -97,29 +103,29 @@ As you continue to develop your project and engage in user research, what you th
 
 **Be comfortable with change, even if it means starting over.**
 
-The initial understanding of the project can change quickly, either through interactions with the client or through user interviews. Be prepared to adapt your materials to meet new needs. All progress is good progress, and will help create a strong product in the end.
+The initial understanding of the project can change quickly, either through interactions with the partner or through user interviews. Be prepared to adapt your materials to meet new needs. All progress is good progress, and will help create a strong product in the end.
 
 ## 9. Embrace user research and what it means. Keep your plan user-centric so that any pivots stem from user needs. 
 
 **Keep testing and interviewing.**
 
-It's never too late to do a user interview. The class length is short, and some interviewees may not reveal themselves until the end. Even if they do not directly impact the direction of your project, the information gained will still be valuable for the client and could influence the next stages.
+It's never too late to do a user interview. The class length is short, and some interviewees may not reveal themselves until the end. Even if they do not directly impact the direction of your project, the information gained will still be valuable for the partner and could influence the next stages.
 
 **More often than not, projects will be non-linear. Keep moving forward.**
 
-Each time you receive more information use this as a chance to enhance or potentially recreate your product. Learning more from your client will help shape how you continue your work, even if this means pivoting to a new direction. 
+Each time you receive more information use this as a chance to enhance or potentially recreate your product. Learning more from your partner will help shape how you continue your work, even if this means pivoting to a new direction. 
 
 ## 10. Stay focused on the problem you're trying to solve.
 
 **Encourage teams, users, and facilitators to keep more options on the table.**
 
-Oftentimes project teams, clients, and stakeholders get entrenched in their respective ideas for what the final outcome should be.  Being able to reconcile “ideal outcomes” with prototypes and minimum viable products throughout the agile process is essential for success.  Tons of research exists on the value of assessing multiple alternatives before making decisions. If all invested parties can consider more options throughout the duration of the project, collaborative output will likely be more productive and of higher quality.     
+Often project teams, partners, and other stakeholders get entrenched in their respective ideas for what the final outcome should be.  Being able to reconcile “ideal outcomes” with prototypes and minimum viable products throughout the agile process is essential for success.  Tons of research exists on the value of assessing multiple alternatives before making decisions. If all invested parties can consider more options throughout the duration of the project, collaborative output will likely be more productive and of higher quality.     
 
 # Policy Innovation Lab Partnership Playbook
 
 ## 1. Embrace user research and what it means. 
 
-## 2. Embracer risk and change - this is a lab!
+## 2. Be open to risk and change - this is a lab!
 
 ## 3. Get involved - become part of the team. 
 
@@ -149,6 +155,8 @@ Gilbert Resendez
 Bobby Sebastian
 Tyler Stern
 Tiffany Zhu
+
+Other contributors can be found in the contributors section of the Github repo. 
 
 ## Inspiration
 
