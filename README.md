@@ -7,15 +7,7 @@ These plays are edited and continually revised by each subsequent class.  We als
 
 # Policy Innovation Lab Plays
 
-## 3. Get involved - become part of the team. 
-
-## 4. Have patience and trust the process - you'll see many versions of a work in progress. 
-
-## 6. Define and agree to the clear problem you're trying to solve with your team. 
-
-## 7.  Have realistic expectations for your team. 
-
-## Play 1 - Trust the process. Embrace user research and what it means. 
+## Play 1 - Trust the process. 
 
 _One of the most difficult things for new students to adapt to in the early weeks of the course is the speed at which projects tend to evolve when agile methods and user centered design are applied.  This is equally difficult, if not more so for partners to adjust to._
 
@@ -23,17 +15,17 @@ New ways of working, especially those that use human-centered design can feel un
 
 **Needs are verbs; solutions are nouns.**
  
-As you create a project brief for Policy Innovation Lab, start with understanding what your constituents need. If you think about these needs as verbs instead of nouns (e.g., "I need to escape the rain" instead of "I need an umbrella), you will open up the realm of possibility for what students can create as solutions that serve real needs. 
+As you review a project brief for Policy Innovation Lab, start with understanding what the users need. If you think about these needs as verbs instead of nouns (e.g., "I need to escape the rain" instead of "I need an umbrella), you will open up the realm of possibility for what you and your team can create as solutions that serve real needs. 
 
 **Frame the problem you're trying to solve through the point of view of the users.**
 
-For stakeholders this means putting yourself in the shoes of your users when creating the initial brief for the course. Focus on the problem you are trying to solve, and avoid solutionizing.  Instead, try to as clearly as possible identify the real underlying problem. Having a user-centric mindset will get you on the same page as the students and ultimately create projects that have greater impact.
+For you and your partners this means putting yourself in the shoes of your users when reviewing the initial brief for the course. Focus on the problem you are trying to solve, and avoid solutionizing.  Instead, try to as clearly as possible identify the real underlying problem. Having a user-centric mindset will get you on the same page as your team and ultimately create MVPs that have greater impact.
 
-For students, read the project brief and try to address the underlying problem the brief is trying to solve.  
+Avoid being so committed to the idea you had in week one that you can't see the real solution right infront of you in week four.   
 
 **Be open to user research.**
 
-Students need to do user research activities, like interviewing and prototype testing, in order to practice human-centered design. User research will also lead to greater impact. As you develop your project brief for Policy Innovation Lab, ask various stakeholders if it would be ok if students reached out to you during the semester. Also be open to students utilizing or developing their own contacts for user research.
+Students need to do user research activities, like interviewing and prototype testing, in order to practice human-centered design. User research will also lead to greater impact. As you develop your partners for Policy Innovation Lab, ask various stakeholders if it would be ok if students reached out to you during the semester. Also be open to students utilizing or developing their own contacts for user research.
 
 ## Play 2 - Establish regular and professional communication channels with your partner.
 
@@ -51,7 +43,6 @@ Your partner is likely asking you to create something that they can then take to
 
 This will usually be the PM, but its important to have one group member be the partner contact for the entire group. This streamlines partner communication and cuts down on possible confusion and partner annoyance (this can happen if the partner is getting multiple emails from multiple people telling them the same thing, or worse, different things!).
 
-
 ## Play 3 - Strive to find the balance between scope and impact. 
 
 It is very easy to pursue projects that are low impact with a manageable scope or that have high impact but an unrealistic scope. It is vital to identify a deliverable that has a manageable scope with a moderate to high impact. 
@@ -60,19 +51,21 @@ Be realistic about what you can complete in the time frame that will be most imp
 
 ## Play 4 - Embrace openness and the technology.
 
-At first, you can think using a public Trello board and Slack is odd. However, as we prepare to be policymakers and civil servants, it's important to get comfortable with transparency about the process (since taxpayers are entrusting us to make decisions on their behalf). Also, these are pretty cool tools to learn.
+At first, you can think using a public Kanban board or Slack is odd. However, as we prepare to be policymakers and civil servants, it's important to get comfortable with transparency about the process (since taxpayers are entrusting us to make decisions on their behalf). Also, these are pretty cool tools to learn.
 
-Keep prototyping and prepare partner facing documents with a lot of check out. Know from the beginning all your materials and organizing channels are going to be available to professors, partners, and Team PA. Getting your mind around this early can think about how best to communicate and organize documents and organizing tools.
+Keep prototyping and prepare partner facing documents with a lot of check out. Know from the beginning all your materials and organizing channels are going to be available to professors, partners, and in many cases, the public. Getting your mind around this early can think about how best to communicate and organize documents and organizing tools.
 
 ## Play 5 - Be an active contributor. Expect more of your team. 
 
-Set team protocols, expectations, and roles early. Stick to them.  This should be completed very early on. In addition, Retros should be used to continue to work on these expectations.  If your team is going to use Slack, then stick to it. If your team plans to use email, then use email. Ensure each team member is receiving the communications and can stay in the loop.  
+Set team protocols, expectations, and roles early. Stick to them.  This should be completed very early on. In addition, Retrospectives should be used to continue to work on these expectations.  If your team is going to use Slack, then stick to it. If your team plans to use email, then use email. Ensure each team member is receiving the communications and can stay in the loop.  
 
 Though sometimes roles make people feel like they’re pigeonholed into doing one type of work, they’re incredibly important for delegation and assigning responsibility. It’s simply more efficient. This doesn’t mean that that person has to do all the heavy lifting of that role (the Research lead doesn’t have to do all the research). Instead they are responsible for making sure the work is delivered on time every week. On the flip side, roles don’t mean you are free to turn down other types of work that don’t fall into your “lane.” Everyone should be an individual contributor for an even number of tasks.
 
 Makes sure that your group sits down as soon as possible and establish who will do what; you will want a project manager at the very least. This will help everyone focus on what their strengths are and make sure that no one is duplicating efforts. It also helps team moral as everyone will know what they need to do.
 
 ### Maintain a common vision and update your teammates regularly. 
+
+Have patience and trust the process - you'll see many versions of a work in progress. 
 
 **Assign "owners" of deliverables and stick to them**
 
