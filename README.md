@@ -137,25 +137,26 @@ Often project teams, partners, and other stakeholders get entrenched in their re
 “This course offered real world experience in consulting and dealing with clients unlike most other courses. Even the frustrating moments were teaching moments.” - Peter H.
 
 # Contributors (SP 19)
-Mutiat Alagbala . 
-Aimen Awan . 
-Chris Bell . 
-Johnny Brame   
-Meghan Brown   
-Juliana Cotto . 
-Peter Huether . 
-Mehr Asma Javed . 
-Amanda Kennedy  
-Alex Kluge . 
-Jana Laks . 
-Sara Pesi . 
-Diana Rafenello . 
-Gilbert Resendez . 
-Bobby Sebastian . 
-Tyler Stern  
-Tiffany Zhu . 
+- Mutiat Alagbala
+- Aimen Awan
+- Chris Bell
+- Johnny Brame   
+- Meghan Brown   
+- Juliana Cotto
+- Peter Huether
+- Mehr Asma Javed
+- Amanda Kennedy  
+- Alex Kluge 
+- Jana Laks
+- Sara Pesi 
+- Diana Rafenello 
+- Gilbert Resendez 
+- Bobby Sebastian 
+- Tyler Stern  
+- Tiffany Zhu 
 
-Faculty: Chris Goranson . 
+Faculty: Chris Goranson .    
+
 Other contributors can be found in the contributors section of the Github repo. 
 
 ## Inspiration
