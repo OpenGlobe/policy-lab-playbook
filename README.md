@@ -7,7 +7,15 @@ These plays are edited and continually revised by each subsequent class.  We als
 
 # Policy Innovation Lab Plays
 
-## 1. Trust the process. 
+## 3. Get involved - become part of the team. 
+
+## 4. Have patience and trust the process - you'll see many versions of a work in progress. 
+
+## 6. Define and agree to the clear problem you're trying to solve with your team. 
+
+## 7.  Have realistic expectations for your team. 
+
+## Play 1 - Trust the process. Embrace user research and what it means. 
 
 _One of the most difficult things for new students to adapt to in the early weeks of the course is the speed at which projects tend to evolve when agile methods and user centered design are applied.  This is equally difficult, if not more so for partners to adjust to._
 
@@ -27,9 +35,9 @@ For students, read the project brief and try to address the underlying problem t
 
 Students need to do user research activities, like interviewing and prototype testing, in order to practice human-centered design. User research will also lead to greater impact. As you develop your project brief for Policy Innovation Lab, ask various stakeholders if it would be ok if students reached out to you during the semester. Also be open to students utilizing or developing their own contacts for user research.
 
-## 2. Set expectations with your partner early and keep the process transparent. 
+## Play 2 - Establish regular and professional communication channels with your partner.
 
-Being on the same page with the partner about what they expect and what we can deliver is crucial. A lot of time and effort can be wasted if the group is working under different assumptions than the partner. 
+Set expectations with your partner early and keep the process transparent. You have a responsibility to the team working on your project. Being on the same page with the partner about what they expect and what we can deliver is crucial. A lot of time and effort can be wasted if the group is working under different assumptions than the partner. 
 
 **Keep checking in with partner as project evolves.**
 
@@ -43,21 +51,28 @@ Your partner is likely asking you to create something that they can then take to
 
 This will usually be the PM, but its important to have one group member be the partner contact for the entire group. This streamlines partner communication and cuts down on possible confusion and partner annoyance (this can happen if the partner is getting multiple emails from multiple people telling them the same thing, or worse, different things!).
 
-## 3. Embrace openness and the technology tools of the class
+
+## Play 3 - Strive to find the balance between scope and impact. 
+
+It is very easy to pursue projects that are low impact with a manageable scope or that have high impact but an unrealistic scope. It is vital to identify a deliverable that has a manageable scope with a moderate to high impact. 
+
+Be realistic about what you can complete in the time frame that will be most impactful and get partner feedback. With scoping as you work toward your final deliverable keep a master document that has all the information so you have a nice organized document of what was accomplished and what is left to do to hand off to the partner.
+
+## Play 4 - Embrace openness and the technology.
 
 At first, you can think using a public Trello board and Slack is odd. However, as we prepare to be policymakers and civil servants, it's important to get comfortable with transparency about the process (since taxpayers are entrusting us to make decisions on their behalf). Also, these are pretty cool tools to learn.
 
 Keep prototyping and prepare partner facing documents with a lot of check out. Know from the beginning all your materials and organizing channels are going to be available to professors, partners, and Team PA. Getting your mind around this early can think about how best to communicate and organize documents and organizing tools.
 
-## 4. Set team protocols, expectations, and roles early. Stick to them. 
+## Play 5 - Be an active contributor. Expect more of your team. 
 
-This should be completed very early on. In addition, Retros should be used to continue to work on these expectations.  If your team is going to use Slack, then stick to it. If your team plans to use email, then use email. Ensure each team member is receiving the communications and can stay in the loop.  
+Set team protocols, expectations, and roles early. Stick to them.  This should be completed very early on. In addition, Retros should be used to continue to work on these expectations.  If your team is going to use Slack, then stick to it. If your team plans to use email, then use email. Ensure each team member is receiving the communications and can stay in the loop.  
 
 Though sometimes roles make people feel like they’re pigeonholed into doing one type of work, they’re incredibly important for delegation and assigning responsibility. It’s simply more efficient. This doesn’t mean that that person has to do all the heavy lifting of that role (the Research lead doesn’t have to do all the research). Instead they are responsible for making sure the work is delivered on time every week. On the flip side, roles don’t mean you are free to turn down other types of work that don’t fall into your “lane.” Everyone should be an individual contributor for an even number of tasks.
 
 Makes sure that your group sits down as soon as possible and establish who will do what; you will want a project manager at the very least. This will help everyone focus on what their strengths are and make sure that no one is duplicating efforts. It also helps team moral as everyone will know what they need to do.
 
-## 5. Maintain a common plan and update your teammates regularly. 
+### Maintain a common vision and update your teammates regularly. 
 
 **Assign "owners" of deliverables and stick to them**
 
@@ -75,23 +90,17 @@ Summary: Developing and ensuring continued trust among team members is essential
 
 Between other obligations and busy schedules, try to touch base with other team members frequently outside of class to ensure you are not recreating work or miscommunicating. This will ensure you are ready to speak with your partner or share updates when asked in class. 
 
-## 6. Don’t be afraid to scrap a potential deliverable if it no longer makes sense. 
+## Play 6 - Be open to risk and change - this is a lab!
 
-These fast-moving projects mean you often must start prototyping before you have a full enough picture of the issue. This means that you may have to rethink your deliverable part-way through and that is fine. 
+Don’t be afraid to scrap a potential deliverable if it no longer makes sense. These fast-moving projects mean you often must start prototyping before you have a full enough picture of the issue. This means that you may have to rethink your deliverable part-way through and that is fine. 
 
 **Defining failure criteria is equally as important as determining success criteria.**
 
 Summary: This course is process-driven.  Process requires learning from mistakes and pivoting.  This process is motivated by the agile methodology that necessitates determining acceptance criteria for various project phases.  The same should be done with failure criteria. It’s important to learn how to fail well; knowing when to walk away and what to learn from those failures.
 
-## 7. Strive to find the balance between scope and impact. 
+## Play 7 - Manage your time, and leverage iterations to your advantage. 
 
-It is very easy to pursue projects that are low impact with a manageable scope or that have high impact but an unrealistic scope. It is vital to identify a deliverable that has a manageable scope with a moderate to high impact. 
-
-Be realistic about what you can complete in the time frame that will be most impactful and get partner feedback. With scoping as you work toward your final deliverable keep a master document that has all the information so you have a nice organized document of what was accomplished and what is left to do to hand off to the partner.
-
-## 8. Develop a flexible, iterative timeline early
-
-The weeks will fly by being able to look ahead and think about what is happening the following week can help you more effectively manage your time. Make sure you know the progress and the steps in the process and map out deliverable due dates so that you can ensure you are meeting them. That means checking syllabus and working with professor and partner, so you know what deliverables they are expecting throughout the semester. Read up on Scrum and Agile methods so you know what to expect and assign roles to complete task.
+Develop a flexible, iterative timeline early. The weeks will fly by being able to look ahead and think about what is happening the following week can help you more effectively manage your time. Make sure you know the progress and the steps in the process and map out deliverable due dates so that you can ensure you are meeting them. That means checking syllabus and working with professor and partner, so you know what deliverables they are expecting throughout the semester. Read up on Scrum and Agile methods so you know what to expect and assign roles to complete task.
 
 **Learn to pivot.**
 
@@ -105,7 +114,9 @@ As you continue to develop your project and engage in user research, what you th
 
 The initial understanding of the project can change quickly, either through interactions with the partner or through user interviews. Be prepared to adapt your materials to meet new needs. All progress is good progress, and will help create a strong product in the end.
 
-## 9. Embrace user research and what it means. Keep your plan user-centric so that any pivots stem from user needs. 
+## Play 8 - It's always about the user. 
+
+Embrace user research and what it means. Keep your plan user-centric so that any pivots stem from user needs. 
 
 **Keep testing and interviewing.**
 
@@ -115,47 +126,43 @@ It's never too late to do a user interview. The class length is short, and some 
 
 Each time you receive more information use this as a chance to enhance or potentially recreate your product. Learning more from your partner will help shape how you continue your work, even if this means pivoting to a new direction. 
 
-## 10. Stay focused on the problem you're trying to solve.
+## Play 9 - Stay focused on the problem you're trying to solve.
 
 **Encourage teams, users, and facilitators to keep more options on the table.**
 
-Often project teams, partners, and other stakeholders get entrenched in their respective ideas for what the final outcome should be.  Being able to reconcile “ideal outcomes” with prototypes and minimum viable products throughout the agile process is essential for success.  Tons of research exists on the value of assessing multiple alternatives before making decisions. If all invested parties can consider more options throughout the duration of the project, collaborative output will likely be more productive and of higher quality.     
+Often project teams, partners, and other stakeholders get entrenched in their respective ideas for what the final outcome should be.  Being able to reconcile “ideal outcomes” with prototypes and minimum viable products throughout the agile process is essential for success.  Tons of research exists on the value of assessing multiple alternatives before making decisions. If all invested parties can consider more options throughout the duration of the project, collaborative output will likely be more productive and of higher quality.   
 
-# Policy Innovation Lab Partnership Playbook
+# Quotes from students (Spring '19)
+"I think that anyone who is really interested in federal government consulting should take this class" - Jana L.
 
-## 1. Embrace user research and what it means. 
+"This is a great pre-systems class. But even if you've taken systems this is a great class for anyone interested in applying principles of innovation to government and public services." - Gilbert R.
 
-## 2. Be open to risk and change - this is a lab!
+“Policy Innovation Lab is all about getting comfortable with being uncomfortable. The ambiguity of some aspects of PIL will push students to be self-starters, take initiative, and flex communication skills. Immersing oneself in the agile environment for policy design will demand and strengthen your creative thinking, flexibility, and willingness to fail.” - Alex K.
 
-## 3. Get involved - become part of the team. 
+"This class lays a solid grounding for first-year students who have not yet had a project-based course. The skills developed in this class are applicable to other team-based projects in Heinz courses and for the Systems requirement later on." - Diana R.
 
-## 4. Have patience and trust the process - you'll see many versions of a work in progress. 
-
-## 5. You have a responsibility to the team working on your project. 
-
-## 6. Define and agree to the clear problem you're trying to solve with your team. 
-
-## 7.  Have realistic expectations for your team. 
+“This course offered real world experience in consulting and dealing with clients unlike most other courses. Even the frustrating moments were teaching moments.” - Peter H.
 
 # Contributors (SP 19)
-Mutiat Alagbala
-Aimen Awan
-Chris Bell
-Johnny Brame
-Meghan Brown
-Juliana Cotto
-Peter Huether
-Mehr Asma Javed
-Amanda Kennedy
-Alex Kluge
-Jana Laks
-Sara Pesi
-Diana Rafenello
-Gilbert Resendez
-Bobby Sebastian
-Tyler Stern
-Tiffany Zhu
+Mutiat Alagbala . 
+Aimen Awan . 
+Chris Bell . 
+Johnny Brame   
+Meghan Brown   
+Juliana Cotto . 
+Peter Huether . 
+Mehr Asma Javed . 
+Amanda Kennedy  
+Alex Kluge . 
+Jana Laks . 
+Sara Pesi . 
+Diana Rafenello . 
+Gilbert Resendez . 
+Bobby Sebastian . 
+Tyler Stern  
+Tiffany Zhu . 
 
+Faculty: Chris Goranson . 
 Other contributors can be found in the contributors section of the Github repo. 
 
 ## Inspiration
