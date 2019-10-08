@@ -155,7 +155,11 @@ Often project teams, partners, and other stakeholders get entrenched in their re
 - Tyler Stern  
 - Tiffany Zhu 
 
+# Contributors (Fall 2019)
+- Your name here!
+
 Faculty: Chris Goranson  
+=======
 
 Other contributors can be found in the contributors section of the Github repo. 
 
