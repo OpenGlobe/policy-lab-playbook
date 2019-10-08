@@ -155,7 +155,7 @@ Often project teams, partners, and other stakeholders get entrenched in their re
 - Tyler Stern  
 - Tiffany Zhu 
 
-Faculty: Chris Goranson .    
+Faculty: Chris Goranson  
 
 Other contributors can be found in the contributors section of the Github repo. 
 
