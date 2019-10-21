@@ -176,7 +176,7 @@ Unless your Steve Jobs, your initial hypothesis is going to be wrong the moment 
 - Tiffany Zhu 
 
 # Contributors (Fall 2019)
-- Your name here!
+- Xiaoyi Zhu
 
 Faculty: Chris Goranson  
 =======
