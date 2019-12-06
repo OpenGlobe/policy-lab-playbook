@@ -11,11 +11,13 @@ These plays are edited and continually revised by each subsequent class.  We als
 
 _One of the most difficult things for new students to adapt to in the early weeks of the course is the speed at which projects tend to evolve when agile methods and user centered design are applied.  This is equally difficult, if not more so for partners to adjust to._
 
-New ways of working, especially those that use human-centered design can feel unfamiliar and uncomfortable. Lean into it. Human-centered design and agile require a shift in mindset. Students may need to change focus after talking to project stakeholders and confirm different needs.  That's ok. This reframing of the original problem can not only lead to identifying the real issue but also result in work that is more nimble and uses resources more efficiently and effectively. 
+
 
 **Needs are verbs; solutions are nouns.**
  
 As you review a project brief for Policy Innovation Lab, start with understanding what the users need. If you think about these needs as verbs instead of nouns (e.g., "I need to escape the rain" instead of "I need an umbrella), you will open up the realm of possibility for what you and your team can create as solutions that serve real needs. 
+
+New ways of working, especially those that use human-centered design can feel unfamiliar and uncomfortable. Lean into it. Human-centered design and agile require a shift in mindset. Students may need to change focus after talking to project stakeholders and confirm different needs.  That's ok. This reframing of the original problem can not only lead to identifying the real issue but also result in work that is more nimble and uses resources more efficiently and effectively. 
 
 **Frame the problem you're trying to solve through the point of view of the users.**
 
@@ -175,7 +177,9 @@ Unless your Steve Jobs, your initial hypothesis is going to be wrong the moment 
 - Tyler Stern  
 - Tiffany Zhu 
 
+
 # Contributors (Fall 2019)
+=======
 - Xiaoyi Zhu
 
 Faculty: Chris Goranson  
