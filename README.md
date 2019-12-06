@@ -51,6 +51,10 @@ It is very easy to pursue projects that are low impact with a manageable scope o
 
 Be realistic about what you can complete in the time frame that will be most impactful and get partner feedback. With scoping as you work toward your final deliverable keep a master document that has all the information so you have a nice organized document of what was accomplished and what is left to do to hand off to the partner.
 
+**Think globally act locally**
+
+There’s a saying that programmers use – think global program locally. It means keep you vision big and keep it in front of you. But prototype small and lightweight. The prototype is a means to get people talking about what they need. A prototype triggers a richer discussion that isn’t possible to have by simply talking about an idea. Let your insights from interviewing people take the lead and guide you into promising directions. 
+
 ## Play 4 - Embrace openness and the technology.
 
 At first, you can think using a public Kanban board or Slack is odd. However, as we prepare to be policymakers and civil servants, it's important to get comfortable with transparency about the process (since taxpayers are entrusting us to make decisions on their behalf). Also, these are pretty cool tools to learn.
@@ -65,9 +69,17 @@ Though sometimes roles make people feel like they’re pigeonholed into doing on
 
 Makes sure that your group sits down as soon as possible and establish who will do what; you will want a project manager at the very least. This will help everyone focus on what their strengths are and make sure that no one is duplicating efforts. It also helps team moral as everyone will know what they need to do.
 
+**What’s your superpower?**
+
+Before you ‘define roles’, consider going around the table and asking, “What is your superpower?” “What do you want to learn out of this course?” You never know if someone is a pro at Adobe photoshop or has rich experience talking to clients until you ask them. Role titles are a better fit if it’s a match with that person’s skillset and interest.
+
 ### Maintain a common vision and update your teammates regularly. 
 
 Have patience and trust the process - you'll see many versions of a work in progress. 
+
+**What’s your audacious goal?**
+
+Before you start working, consider going around the table and asking, “What’s your audacious goal for changing policy?” Find out what people’s dreams are. Because this course is about setting a bold vision and seeing how far you can get. Who is to say your vision can’t be something bold like “double voter turnout in presidential elections by 2030”? What if you do discover something incredible and becomes bigger than you ever could have imagined.
 
 **Assign "owners" of deliverables and stick to them**
 
@@ -111,7 +123,11 @@ The initial understanding of the project can change quickly, either through inte
 
 ## Play 8 - It's always about the user. 
 
-Embrace user research and what it means. Keep your plan user-centric so that any pivots stem from user needs. 
+Embrace user research and what it means. Keep your plan user-centric so that any pivots stem from user needs.
+
+**Reach out to users early on.**
+
+Understand user needs and validate your key assumptions with them as early as possible. It will help your team identify a more suitable approach to the problem and align your goals with your partner. Synthesis your learnings and findings and leverage them to inform your design decisions. While the agile mindset helps you “build the thing right,” user research empowers you to “build the right thing.”
 
 **Keep testing and interviewing.**
 
@@ -126,6 +142,10 @@ Each time you receive more information use this as a chance to enhance or potent
 **Encourage teams, users, and facilitators to keep more options on the table.**
 
 Often project teams, partners, and other stakeholders get entrenched in their respective ideas for what the final outcome should be.  Being able to reconcile “ideal outcomes” with prototypes and minimum viable products throughout the agile process is essential for success.  Tons of research exists on the value of assessing multiple alternatives before making decisions. If all invested parties can consider more options throughout the duration of the project, collaborative output will likely be more productive and of higher quality.   
+
+**Follow the problem where it goes**
+
+Unless your Steve Jobs, your initial hypothesis is going to be wrong the moment you talk to a user. Our first guess about why a problem is happening and what could solve it is usually wrong. This is because people are complex, and they make decisions in random and unique ways. The users are going to give you insights that come from unexpected places. If you think you’ve found something interesting, you have. Dig deeper and learn more about it. If you think the user research does not support your idea, then pivot. Or think of another angle to approach your questions. People are interesting and they will always reveal, directly or indirectly, something valuable to learn. 
 
 # Quotes from students (Spring '19)
 "I think that anyone who is really interested in federal government consulting should take this class" - Jana L.
@@ -159,7 +179,8 @@ Often project teams, partners, and other stakeholders get entrenched in their re
 
 
 # Contributors (Fall 2019)
-- Anonymous Skunk
+=======
+- Xiaoyi Zhu
 
 Faculty: Chris Goranson  
 =======
