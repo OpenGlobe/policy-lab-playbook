@@ -183,6 +183,10 @@ Unless your Steve Jobs, your initial hypothesis is going to be wrong the moment 
 # Contributors (Fall 2019)
 =======
 - Xiaoyi Zhu
+- Deepak Chawla
+- Patrick Campbell
+- Devraj Kori
+- Mansi Panchamia
 
 Faculty: Chris Goranson  
 =======
