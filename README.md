@@ -69,6 +69,8 @@ Though sometimes roles make people feel like they’re pigeonholed into doing on
 
 Makes sure that your group sits down as soon as possible and establish who will do what; you will want a project manager at the very least. This will help everyone focus on what their strengths are and make sure that no one is duplicating efforts. It also helps team moral as everyone will know what they need to do.
 
+Remember that things tend to get busy in waves at CMU and each team member may not be able to contribute substantially each week. Plan for this reality so that it doesn't impede your group's progress. Team members should communicate openly about their expected contributions and do their best to pick up slack when they have time. 
+
 **What’s your superpower?**
 
 Before you ‘define roles’, consider going around the table and asking, “What is your superpower?” “What do you want to learn out of this course?” You never know if someone is a pro at Adobe photoshop or has rich experience talking to clients until you ask them. Role titles are a better fit if it’s a match with that person’s skillset and interest.
