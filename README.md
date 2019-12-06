@@ -121,7 +121,11 @@ The initial understanding of the project can change quickly, either through inte
 
 ## Play 8 - It's always about the user. 
 
-Embrace user research and what it means. Keep your plan user-centric so that any pivots stem from user needs. 
+Embrace user research and what it means. Keep your plan user-centric so that any pivots stem from user needs.
+
+**Reach out to users early on.**
+
+Understand user needs and validate your key assumptions with them as early as possible. It will help your team identify a more suitable approach to the problem and align your goals with your partner. Synthesis your learnings and findings and leverage them to inform your design decisions. While the agile mindset helps you “build the thing right,” user research empowers you to “build the right thing.”
 
 **Keep testing and interviewing.**
 
@@ -172,7 +176,7 @@ Unless your Steve Jobs, your initial hypothesis is going to be wrong the moment 
 - Tiffany Zhu 
 
 # Contributors (Fall 2019)
-- Your name here!
+- Xiaoyi Zhu
 
 Faculty: Chris Goranson  
 =======
