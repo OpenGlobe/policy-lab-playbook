@@ -1,0 +1,36 @@
+
+#container>header a, #container>header a:focus, #container>header a:hover, .roof a, .roof a:focus, .roof a:hover, .roof.invert a {
+    border-bottom-color: transparent;
+}
+
+.roof {
+    border-bottom: 1px solid rgba(0,0,0,.2);
+    font-size: 90%;
+    line-height: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+    padding-left: 12%;
+    padding-right: 100%;    
+    position:fixed;
+    z-index: 1100;
+}
+
+.roof a.wordmark {
+    background: url(../images/roof/cmu-wordmark-horizontal-r.png) no-repeat left center scroll transparent;
+    background-size: contain;
+}
+
+.roof a.wordmark {
+    border-bottom: none 0;
+    min-height: 2.15em;
+    margin: 1em 0 .65em;
+    text-indent: -9999px;
+    width: 31.333%;
+    min-width: 300px;
+}
+
+.roof a.wordmark, .roof form {
+    display: inline-block;
+    width: 25%;
+    flex: 0 1 auto;
+}
