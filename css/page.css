@@ -149,6 +149,11 @@
 	height: 470px;
 }
 
+
+.play-img {
+	padding-top: 50%;
+}
+
 @media screen and (max-width: 61.75em){
 	.bb-custom-side {
 		font-size: 70%;
