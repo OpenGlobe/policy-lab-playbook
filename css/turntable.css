@@ -10,7 +10,7 @@
   display: none; 
 }
 .turntable ul li img {
-  padding-top: 30%;
+  padding-top: 0%;
 }
 .turntable ul li.active {
   display: block; 

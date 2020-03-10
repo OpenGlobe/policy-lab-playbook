@@ -59,7 +59,7 @@
 
 .bb-custom-firstpage h1 span {
 	display: block;
-	font-size: 60%;
+	font-size: 50%;
 	opacity: 0.5;
 	padding: 0 0 0.6em 0.1em;
 }
@@ -79,8 +79,8 @@
 }
 
 .bb-custom-side p {
-	padding: 8%;
-	font-size: 1.8em;
+	padding: 0%;
+	font-size: 1.0em;
 	font-weight: 300;
 }
 
@@ -157,7 +157,7 @@
 
 
 .play-img {
-	padding-top: 50%;
+	padding-top: 40%;
 }
 
 @media screen and (max-width: 61.75em){
