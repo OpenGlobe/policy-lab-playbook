@@ -80,8 +80,9 @@
 
 .bb-custom-side p {
 	padding: 0%;
-	font-size: 1.0em;
+	font-size: 1.1em;
 	font-weight: 300;
+	margin: 2%;
 }
 
 .bb-custom-wrapper h3 {
