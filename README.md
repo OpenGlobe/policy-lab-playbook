@@ -199,10 +199,13 @@ Other contributors can be found in the contributors section of the Github repo.
 
 “18F: Digital Service Delivery | 18F Partnership Principles.” Accessed May 1, 2019. https://18f.gsa.gov/partnership-principles/.
 
-# Image Source
+## Image Source
 https://icons8.com/ouch/
+
 https://iconscout.com/free-illustrations
+
 https://undraw.co/illustrations
+
 https://codepen.io/erinesullivan/pen/qGrdGV
 
 
