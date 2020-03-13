@@ -188,6 +188,11 @@ Unless your Steve Jobs, your initial hypothesis is going to be wrong the moment 
 - Devraj Kori
 - Mansi Panchamia
 
+# Contributors (Spring 2020)
+=======
+- Sean Cuff
+- Sonal Das
+
 Faculty: Chris Goranson  
 =======
 
@@ -198,6 +203,12 @@ Other contributors can be found in the contributors section of the Github repo.
 “The Digital Services Playbook — from the U.S. Digital Service.” Accessed April 29, 2019. https://playbook.cio.gov/.
 
 “18F: Digital Service Delivery | 18F Partnership Principles.” Accessed May 1, 2019. https://18f.gsa.gov/partnership-principles/.
+
+## Image Source
+https://icons8.com/ouch/
+https://iconscout.com/free-illustrations
+https://undraw.co/illustrations
+https://codepen.io/erinesullivan/pen/qGrdGV
 
 
 

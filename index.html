@@ -1,11 +1,12 @@
 <!DOCTYPE html>
 <html lang="en" class="no-js demo-4">
 	<head>
+		<link href="images/roof/favicon.ico" rel="shortcut icon"/>
 		<meta charset="UTF-8" />
 		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
 		<meta name="viewport" content="width=device-width, initial-scale=1.0"> 
-		<title>BookBlock: A Content Flip Plugin - Demo 4</title>
-		<meta name="description" content="Bookblock: A Content Flip Plugin - Demo 4" />
+		<title>CMU Policy Innovation Lab</title>
+		<meta name="description" content="CMU Policy Innovation Lab" />
 		<meta name="keywords" content="javascript, jquery, plugin, css3, flip, page, 3d, booklet, book, perspective" />
 		<meta name="author" content="Codrops" />
 		<link rel="shortcut icon" href="../favicon.ico"> 
@@ -14,15 +15,17 @@
         <link rel="stylesheet" type="text/css" href="css/roof.css" />
 		<!-- custom demo style -->
         <link rel="stylesheet" type="text/css" href="css/page.css" />
-        <link rel="stylesheet" type="text/css" href="css/turntable.css" />
+		<link rel="stylesheet" type="text/css" href="css/turntable.css" />
+		<link rel="stylesheet" type="text/css" href="css/checklist.css" />
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
         <script src="js/turntable.js"></script> 
-        <script src="js/modernizr.custom.js"></script>              
+		<script src="js/modernizr.custom.js"></script>   
+		<script src="js/checklist.js"></script>             
     </head>
 
 	<body>
 		<div class="container">
-            <div class="roof">
+            <div id="div-roof" class="roof">
                 <div>
                     <a class="wordmark" href="https://www.cmu.edu/">Carnegie Mellon University</a>                      
                 </div>
@@ -31,52 +34,106 @@
 				<div id="bb-bookblock" class="bb-bookblock">
                     
 					<div class="bb-item">                        
-						<div class="bb-custom-firstpage">
-                            <h1>Policy Innovation Lab Playbook <span>This playbook is designed to provide both students and future partners of the lab with guidelines, tips, and strategies for success during the course.</span></h1>	
-
-                            <div id="myTurntable" class="turntable">
-                                <ul>
-                                <li data-img-src="images/turnable/frame-01.PNG"></li>
-                                <li data-img-src="images/turnable/frame-02.PNG"></li>
-                                <li data-img-src="images/turnable/frame-03.PNG"></li>
-                                <li data-img-src="images/turnable/frame-04.PNG"></li>
-                                <li data-img-src="images/turnable/frame-05.PNG"></li>
-                                <li data-img-src="images/turnable/frame-06.PNG"></li>
-                                <li data-img-src="images/turnable/frame-07.PNG"></li>
-                                <li data-img-src="images/turnable/frame-08.PNG"></li>
-                                <li data-img-src="images/turnable/frame-09.PNG"></li>
-                                </ul>
-                            </div>
+						<div class="bb-custom-firstpage" style="padding-top:0% ">						
+						  <img style="width:75% !important; text-align: left; right: 50%; position: absolute;" src="images/roof/29265315061_f50a1145a5_k.jpg">
+						  <img style="width:15%; right: 70%; position: absolute;"src="images/roof/cmu-wordmark-square-w-on-r.png">
                             
                         </div>
                      
-						<div class="bb-custom-side">
-							<p style="font-size: 1.5em;">The core of these plays were originally developed by the first class during a workshop held on May 1st, 2019. Participants reviewed plays, developed themes and highlighted leading lessons learned from the course. See the credits for the list of CMU students who participated in and helped write and develop these plays.<br><br>
-                                
-                                These plays are edited and continually revised by each subsequent class. We also welcome contributions from the broader civic tech / public interest technology field. You can suggest a change or addition by opening an issue.</p>
+						<div class="bb-custom-firstpage bb-custom-side">
+
+							<img style="width:40%; margin-top: -10%;" src="images/roof/Heinz logo 16.3 final.jpg"><br><br>
+
+							<h1 style="padding-bottom: 60%;">Policy Innovation Lab Playbook <span>This playbook is designed to provide both students and future partners of the lab with guidelines, tips, and strategies for success during the course.</span></h1>	
+							
+							<img style="width: 20%;position:absolute;" src="images/undraw/Concept of business team working in different departments.png">
+							
+                            <div id="myTurntable" class="turntable" style="position: absolute;">
+								<ul>
+									<li data-img-src="images/turnable/frame-01.PNG"></li>
+									<li data-img-src="images/turnable/frame-02.PNG"></li>
+									<li data-img-src="images/turnable/frame-03.PNG"></li>
+									<li data-img-src="images/turnable/frame-04.PNG"></li>
+									<li data-img-src="images/turnable/frame-05.PNG"></li>
+									<li data-img-src="images/turnable/frame-06.PNG"></li>
+									<li data-img-src="images/turnable/frame-07.PNG"></li>
+									<li data-img-src="images/turnable/frame-08.PNG"></li>
+									<li data-img-src="images/turnable/frame-09.PNG"></li>
+									<li data-img-src="images/turnable/frame-10.PNG"></li>
+									<li data-img-src="images/turnable/frame-11.PNG"></li>
+									<li data-img-src="images/turnable/frame-12.PNG"></li>
+									<li data-img-src="images/turnable/frame-13.PNG"></li>
+								</ul>
+							</div>
+							
 						</div>
 					</div>
 					<div class="bb-item">
-						<div class="bb-custom-side">
-							<div class="bb-custom-firstpage"">								
-								<img class="play-img" src="images/turnable/frame-01.PNG"/>
-                                <div></div>
-                            </div>
+						<div class="bb-custom-firstpage">							
+							<img style="width: 50%;" src="images/undraw/undraw_active_options_8je6.png">
+							<img  src="images/turnable/frame-05.PNG"/>
+							<h1><span>One of the most difficult things for new students to adapt to in the early weeks of the course is the speed at which projects tend to evolve when agile methods and user centered design are applied. This is equally difficult, if not more so for partners to adjust to.</span></h1>
+							
 						</div>
 						<div class="bb-custom-side">
-							<p style="font-size: 1.1em;"><i>One of the most difficult things for new students to adapt to in the early weeks of the course is the speed at which projects tend to evolve when agile methods and user centered design are applied. This is equally difficult, if not more so for partners to adjust to.</i><br><br>
+						
+							<p style="font-size: 1.1em; margin: 2%;">
+								<!--
+                                <b>Checklist</b>                                
+                                <div>									
+									<span class="todo-wrap">
+										<input type="checkbox" id="1"/>
+										<label for="1" class="todo">
+										<i class="fa fa-check"></i>
+										<b>Needs are verbs; solutions are nouns</b><br><br>
+										As you review a project brief for Policy Innovation Lab, start with understanding what the users need. If you think about these needs as verbs instead of nouns (e.g., "I need to escape the rain" instead of "I need an umbrella), you will open up the realm of possibility for what you and your team can create as solutions that serve real needs.
 
-                                <b>Needs are verbs; solutions are nouns.</b><br><br>
+										<br><br>New ways of working, especially those that use human-centered design can feel unfamiliar and uncomfortable. Lean into it. Human-centered design and agile require a shift in mindset. Students may need to change focus after talking to project stakeholders and confirm different needs. That's ok. This reframing of the original problem can not only lead to identifying the real issue but also result in work that is more nimble and uses resources more efficiently and effectively.
+										</label>
+										<span class="delete-item" title="remove">
+										<i class="fa fa-times-circle"></i>
+										</span>
+									</span>
+									<span class="todo-wrap">
+										<input type="checkbox" id="2"/>
+										<label for="2" class="todo">
+										<i class="fa fa-check"></i>
+										<b>Frame the problem you're trying to solve through the point of view of the users.</b>
+										<br><br>
+                                
+										For you and your partners this means putting yourself in the shoes of your users when reviewing the initial brief for the course. Focus on the problem you are trying to solve, and avoid solutionizing. Instead, try to as clearly as possible identify the real underlying problem. Having a user-centric mindset will get you on the same page as your team and ultimately create MVPs that have greater impact.<br><br>
+										
+										Avoid being so committed to the idea you had in week one that you can't see the real solution right infront of you in week four.<br><br>
+										</label>
+										<span class="delete-item" title="remove">
+										<i class="fa fa-times-circle"></i>
+										</span>
+									</span>
+									<span class="todo-wrap">
+										<input type="checkbox" id="3"/>
+										<label for="3" class="todo">
+										<i class="fa fa-check"></i>
+										<b>Be open to user research.</b><br><br>
+                                
+                                		Students need to do user research activities, like interviewing and prototype testing, in order to practice human-centered design. User research will also lead to greater impact. As you develop your partners for Policy Innovation Lab, ask various stakeholders if it would be ok if students reached out to you during the semester. Also be open to students utilizing or developing their own contacts for user research.</p>
+										</label>
+										<span class="delete-item" title="remove">
+										<i class="fa fa-times-circle"></i>
+										</span>
+									</span>
+								</div>
+							-->
+							<b>Needs are verbs; solutions are nouns.</b><br><br>
                                 
                                 As you review a project brief for Policy Innovation Lab, start with understanding what the users need. If you think about these needs as verbs instead of nouns (e.g., "I need to escape the rain" instead of "I need an umbrella), you will open up the realm of possibility for what you and your team can create as solutions that serve real needs.<br><br>
-                                
-                                New ways of working, especially those that use human-centered design can feel unfamiliar and uncomfortable. Lean into it. Human-centered design and agile require a shift in mindset. Students may need to change focus after talking to project stakeholders and confirm different needs. That's ok. This reframing of the original problem can not only lead to identifying the real issue but also result in work that is more nimble and uses resources more efficiently and effectively.<br><br>
-                                
+								
+								New ways of working, especially those that use human-centered design can feel unfamiliar and uncomfortable. Lean into it. Human-centered design and agile require a shift in mindset. Students may need to change focus after talking to project stakeholders and confirm different needs. That's ok. This reframing of the original problem can not only lead to identifying the real issue but also result in work that is more nimble and uses resources more efficiently and effectively.<br><br>
+
                                 <b>Frame the problem you're trying to solve through the point of view of the users.</b><br><br>
                                 
-                                For you and your partners this means putting yourself in the shoes of your users when reviewing the initial brief for the course. Focus on the problem you are trying to solve, and avoid solutionizing. Instead, try to as clearly as possible identify the real underlying problem. Having a user-centric mindset will get you on the same page as your team and ultimately create MVPs that have greater impact.<br><br>
-                                
-                                Avoid being so committed to the idea you had in week one that you can't see the real solution right infront of you in week four.<br><br>
+								For you and your partners this means putting yourself in the shoes of your users when reviewing the initial brief for the course. Focus on the problem you are trying to solve, and avoid solutionizing. Instead, try to as clearly as possible identify the real underlying problem. Having a user-centric mindset will get you on the same page as your team and ultimately create MVPs that have greater impact.<br><br>
+								
+								Avoid being so committed to the idea you had in week one that you can't see the real solution right infront of you in week four.<br><br>
                                 
                                 <b>Be open to user research.</b><br><br>
                                 
@@ -84,15 +141,13 @@
 						</div>
 					</div>
 					<div class="bb-item">
-						<div class="bb-custom-side">
-							<div class="bb-custom-firstpage">
-                                <img class="play-img" src="images/turnable/frame-02.PNG"/>
-                                <div></div>
-                            </div>
+						<div class="bb-custom-firstpage">								
+							<img style="width: 50%;" src="images/undraw/undraw_status_update_jjgk.png">
+							<img  src="images/turnable/frame-06.PNG"/>
+							<h1><span>Set expectations with your partner early and keep the process transparent. You have a responsibility to the team working on your project. Being on the same page with the partner about what they expect and what we can deliver is crucial. A lot of time and effort can be wasted if the group is working under different assumptions than the partner.</span></h1>						
 						</div>
 						<div class="bb-custom-side">
-							<p style="font-size: 1.1em;"><i>Set expectations with your partner early and keep the process transparent. You have a responsibility to the team working on your project. Being on the same page with the partner about what they expect and what we can deliver is crucial. A lot of time and effort can be wasted if the group is working under different assumptions than the partner.</i><br><br>
-
+							<p style="font-size: 1.1em;">
                                 <b>Keep checking in with partner as project evolves.</b><br><br>
                                 
                                 Your project will probably change over time, be sure to keep your partner in the loop as it does. This sets clear expectations for both of you and allows you to incorporate their feedback on every iteration, instead of surprising them at the end with a product they do not want or need.<br><br>
@@ -107,14 +162,13 @@
 						</div>
 					</div>
 					<div class="bb-item">
-						<div class="bb-custom-side">
-							<div class="bb-custom-firstpage">
-                                <img class="play-img" src="images/turnable/frame-03.PNG"/>
-                                <div></div>
-                            </div>
+						<div class="bb-custom-firstpage">								
+							<img style="width: 40%;" src="images/undraw/undraw_smart_resize_wpn8.png">
+							<img  src="images/turnable/frame-07.PNG"/>
+							<h1><span>It is very easy to pursue projects that are low impact with a manageable scope or that have high impact but an unrealistic scope. It is vital to identify a deliverable that has a manageable scope with a moderate to high impact.</span></h1>						
 						</div>
 						<div class="bb-custom-side">
-							<p style="font-size: 1.1em;"><i>It is very easy to pursue projects that are low impact with a manageable scope or that have high impact but an unrealistic scope. It is vital to identify a deliverable that has a manageable scope with a moderate to high impact.</i><br><br>
+							<p style="font-size: 1.1em;">
 
 								<i>Be realistic about what you can complete in the time frame that will be most impactful and get partner feedback. With scoping as you work toward your final deliverable keep a master document that has all the information so you have a nice organized document of what was accomplished and what is left to do to hand off to the partner</i><br><br>
 
@@ -124,14 +178,13 @@
 						</div>
 					</div>
 					<div class="bb-item">
-						<div class="bb-custom-side">
-							<div class="bb-custom-firstpage">
-                                <img class="play-img" src="images/turnable/frame-04.PNG"/>
-                                <div></div>
-                            </div>
+						<div class="bb-custom-firstpage">								
+							<img style="width: 45%;" src="images/undraw/undraw_scrum_board_cesn.png">
+							<img  src="images/turnable/frame-08.PNG"/>
+							<h1><span>At first, you can think using a public Kanban board or Slack is odd. However, as we prepare to be policymakers and civil servants, it's important to get comfortable with transparency about the process (since taxpayers are entrusting us to make decisions on their behalf). Also, these are pretty cool tools to learn.</span></h1>						
 						</div>
 						<div class="bb-custom-side">
-							<p style="font-size: 1.1em;"><i>At first, you can think using a public Kanban board or Slack is odd. However, as we prepare to be policymakers and civil servants, it's important to get comfortable with transparency about the process (since taxpayers are entrusting us to make decisions on their behalf). Also, these are pretty cool tools to learn.</i><br><br>
+							<p style="font-size: 1.1em;">
 
 								<i>Keep prototyping and prepare partner facing documents with a lot of check out. Know from the beginning all your materials and organizing channels are going to be available to professors, partners, and in many cases, the public. Getting your mind around this early can think about how best to communicate and organize documents and organizing tools.</i><br><br>
 
@@ -139,14 +192,13 @@
 						</div>
 					</div>
 					<div class="bb-item">
-						<div class="bb-custom-side">
-							<div class="bb-custom-firstpage">
-                                <img class="play-img" src="images/turnable/frame-05.PNG"/>
-                                <div></div>
-                            </div>
+						<div class="bb-custom-firstpage">								
+							<img style="width: 50%;" src="images/undraw/undraw_work_together_h63l.png">
+							<img  src="images/turnable/frame-09.PNG"/>
+							<h1><span>Set team protocols, expectations, and roles early. Stick to them. This should be completed very early on. In addition, Retrospectives should be used to continue to work on these expectations. If your team is going to use Slack, then stick to it. If your team plans to use email, then use email. Ensure each team member is receiving the communications and can stay in the loop.</span></h1>						
 						</div>
 						<div class="bb-custom-side">
-							<p style="font-size: 1.1em;"><i>Set team protocols, expectations, and roles early. Stick to them. This should be completed very early on. In addition, Retrospectives should be used to continue to work on these expectations. If your team is going to use Slack, then stick to it. If your team plans to use email, then use email. Ensure each team member is receiving the communications and can stay in the loop.</i><br><br>
+							<p style="font-size: 1.1em;">
 
 								<i>Though sometimes roles make people feel like they’re pigeonholed into doing one type of work, they’re incredibly important for delegation and assigning responsibility. It’s simply more efficient. This doesn’t mean that that person has to do all the heavy lifting of that role (the Research lead doesn’t have to do all the research). Instead they are responsible for making sure the work is delivered on time every week. On the flip side, roles don’t mean you are free to turn down other types of work that don’t fall into your “lane.” Everyone should be an individual contributor for an even number of tasks.</i><br><br>
 
@@ -160,11 +212,10 @@
 						</div>
 					</div>
 					<div class="bb-item">
-						<div class="bb-custom-side">
-							<div class="bb-custom-firstpage">
-                                <img class="play-img" src="images/turnable/frame-05.PNG"/>
-                                <div></div>
-                            </div>
+						<div class="bb-custom-firstpage">								
+							<img style="width: 50%;" src="images/undraw/undraw_work_together_h63l.png">
+							<img  src="images/turnable/frame-09.PNG"/>
+							<h1><span>Set team protocols, expectations, and roles early. Stick to them. This should be completed very early on. In addition, Retrospectives should be used to continue to work on these expectations. If your team is going to use Slack, then stick to it. If your team plans to use email, then use email. Ensure each team member is receiving the communications and can stay in the loop.</span></h1>						
 						</div>
 						<div class="bb-custom-side">
 							<p style="font-size: 1.1em;">
@@ -188,52 +239,51 @@
 						</div>						
 					</div>
 					<div class="bb-item">
-						<div class="bb-custom-side">
-							<div class="bb-custom-firstpage">
-                                <img class="play-img" src="images/turnable/frame-06.PNG"/>
-                                <div></div>
-                            </div>
+						<div class="bb-custom-firstpage">								
+							<img style="width: 40%;" src="images/undraw/undraw_investment_xv9d.png">
+							<img  src="images/turnable/frame-10.PNG"/>
+							<h1><span>Don’t be afraid to scrap a potential deliverable if it no longer makes sense. These fast-moving projects mean you often must start prototyping before you have a full enough picture of the issue. This means that you may have to rethink your deliverable part-way through and that is fine.</span></h1>						
 						</div>
 						<div class="bb-custom-side">
-							<p style="font-size: 1.1em;"><i>Don’t be afraid to scrap a potential deliverable if it no longer makes sense. These fast-moving projects mean you often must start prototyping before you have a full enough picture of the issue. This means that you may have to rethink your deliverable part-way through and that is fine.</i><br><br>
+							<p style="font-size: 1.1em;">
 
 							<b>Defining failure criteria is equally as important as determining success criteria.</b><br><br>
 
-							<i>Summary: This course is process-driven. Process requires learning from mistakes and pivoting. This process is motivated by the agile methodology that necessitates determining acceptance criteria for various project phases. The same should be done with failure criteria. It’s important to learn how to fail well; knowing when to walk away and what to learn from those failures.</i><br><br>
+							Summary: This course is process-driven. Process requires learning from mistakes and pivoting. This process is motivated by the agile methodology that necessitates determining acceptance criteria for various project phases. The same should be done with failure criteria. It’s important to learn how to fail well; knowing when to walk away and what to learn from those failures.<br><br>
 						</div>
 					</div>
 					<div class="bb-item">
-						<div class="bb-custom-side">
-							<div class="bb-custom-firstpage">
-                                <img class="play-img" src="images/turnable/frame-07.PNG"/>	
-                                <div></div>
-                            </div>
+						<div class="bb-custom-firstpage">								
+							<img style="width: 35%;" src="images/undraw/undraw_dev_productivity_umsq.png">
+							<img  src="images/turnable/frame-11.PNG"/>
+							<h1><span>Develop a flexible, iterative timeline early. The weeks will fly by being able to look ahead and think about what is happening the following week can help you more effectively manage your time. Make sure you know the progress and the steps in the process and map out deliverable due dates so that you can ensure you are meeting them. That means checking syllabus and working with professor and partner, so you know what deliverables they are expecting throughout the semester. Read up on Scrum and Agile methods so you know what to expect and assign roles to complete task.</span></h1>						
 						</div>
 						<div class="bb-custom-side">
-							<p style="font-size: 1.1em;"><i>Develop a flexible, iterative timeline early. The weeks will fly by being able to look ahead and think about what is happening the following week can help you more effectively manage your time. Make sure you know the progress and the steps in the process and map out deliverable due dates so that you can ensure you are meeting them. That means checking syllabus and working with professor and partner, so you know what deliverables they are expecting throughout the semester. Read up on Scrum and Agile methods so you know what to expect and assign roles to complete task.</i><br><br>
+							<p style="font-size: 1.1em;">
 
 							<b>Learn to pivot.</b><br><br>
 
-							<i>There's inevitably going to be a partner meeting or interview or article that you read that makes you think you're trending in the wrong direction (it might even be week 4). But it's okay to pivot (strategically). All the work you did wasn't for not.</i><br><br>
+							There's inevitably going to be a partner meeting or interview or article that you read that makes you think you're trending in the wrong direction (it might even be week 4). But it's okay to pivot (strategically). All the work you did wasn't for not.<br><br>
 
 							<b>Be flexible and comfortable with change.</b><br><br>
 
-							<i>As you continue to develop your project and engage in user research, what you thought you had in mind of your end deliverable will constantly evolve and change - and this is OK!</i><br><br>
+							As you continue to develop your project and engage in user research, what you thought you had in mind of your end deliverable will constantly evolve and change - and this is OK!<br><br>
 
 							<b>Be comfortable with change, even if it means starting over.</b><br><br>
 
-							<i>The initial understanding of the project can change quickly, either through interactions with the partner or through user interviews. Be prepared to adapt your materials to meet new needs. All progress is good progress, and will help create a strong product in the end.</i><br><br>
+							The initial understanding of the project can change quickly, either through interactions with the partner or through user interviews. Be prepared to adapt your materials to meet new needs. All progress is good progress, and will help create a strong product in the end.<br><br>
 						</div>
 					</div>
 					<div class="bb-item">
-						<div class="bb-custom-side">
-							<div class="bb-custom-firstpage">
-                                <img class="play-img" src="images/turnable/frame-08.PNG"/>
-                                <div></div>
-                            </div>
+						<div class="bb-custom-firstpage">								
+							<img style="width: 35%;" src="images/undraw/undraw_terms_lso0.png">
+							<img  src="images/turnable/frame-12.PNG"/>
+							<h1><span>Embrace user research and what it means. Keep your plan user-centric so that any pivots stem from user needs</i><br><br>
+
+							</span></h1>						
 						</div>
 						<div class="bb-custom-side">
-							<p style="font-size: 1.1em;"><i>Embrace user research and what it means. Keep your plan user-centric so that any pivots stem from user needs</i><br><br>
+							<p style="font-size: 1.1em;">
 
 							<b>Reach out to users early on.</b><br><br>
 
@@ -249,11 +299,10 @@
 						</div>
 					</div>
 					<div class="bb-item">
-						<div class="bb-custom-side">
-							<div class="bb-custom-firstpage">
-                                <img class="play-img" src="images/turnable/frame-09.PNG"/>
-                                <div></div>
-                            </div>
+						<div class="bb-custom-firstpage">								
+							<img style="width: 50%;" src="images/undraw/undraw_dev_focus_b9xo.png">
+							<img  src="images/turnable/frame-13.PNG"/>
+							<h1><span></i><br><br>											
 						</div>
 						<div class="bb-custom-side">
 							<p style="font-size: 1.1em;"><i></i><br><br>
@@ -264,7 +313,7 @@
 
 							<b>Follow the problem where it goes</b><br><br>
 
-							<i>Unless your Steve Jobs, your initial hypothesis is going to be wrong the moment you talk to a user. Our first guess about why a problem is happening and what could solve it is usually wrong. This is because people are complex, and they make decisions in random and unique ways. The users are going to give you insights that come from unexpected places. If you think you’ve found something interesting, you have. Dig deeper and learn more about it. If you think the user research does not support your idea, then pivot. Or think of another angle to approach your questions. People are interesting and they will always reveal, directly or indirectly, something valuable to learn.</i><br><br>
+							<i>Unless you are Steve Jobs, your initial hypothesis is going to be wrong the moment you talk to a user. Our first guess about why a problem is happening and what could solve it is usually wrong. This is because people are complex, and they make decisions in random and unique ways. The users are going to give you insights that come from unexpected places. If you think you’ve found something interesting, you have. Dig deeper and learn more about it. If you think the user research does not support your idea, then pivot. Or think of another angle to approach your questions. People are interesting and they will always reveal, directly or indirectly, something valuable to learn.</i><br><br>
 						</div>
 					</div>
 				</div>
@@ -307,22 +356,26 @@
 
 						// add navigation events
 						config.$navNext.on( 'click touchstart', function() {
-							config.$bookBlock.bookblock( 'next' );
+							config.$bookBlock.bookblock( 'next' );							
+							$("#div-roof").show();
 							return false;
 						} );
 
 						config.$navPrev.on( 'click touchstart', function() {
 							config.$bookBlock.bookblock( 'prev' );
+							$("#div-roof").show();
 							return false;
 						} );
 
 						config.$navFirst.on( 'click touchstart', function() {
-							config.$bookBlock.bookblock( 'first' );
+							config.$bookBlock.bookblock( 'first' );	
+							$("#div-roof").hide();						
 							return false;
 						} );
 
 						config.$navLast.on( 'click touchstart', function() {
 							config.$bookBlock.bookblock( 'last' );
+							$("#div-roof").show();
 							return false;
 						} );
 						
@@ -330,10 +383,12 @@
 						$slides.on( {
 							'swipeleft' : function( event ) {
 								config.$bookBlock.bookblock( 'next' );
+								$("#div-roof").show();
 								return false;
 							},
 							'swiperight' : function( event ) {
 								config.$bookBlock.bookblock( 'prev' );
+								$("#div-roof").show();
 								return false;
 							}
 						} );
@@ -367,6 +422,7 @@
 		</script>
 		<script>
                 $(document).ready(function() { 
+					$("#div-roof").hide();
                     $('#myTurntable').turntable();
                     });
                 Page.init();
