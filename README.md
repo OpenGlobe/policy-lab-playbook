@@ -188,6 +188,11 @@ Unless your Steve Jobs, your initial hypothesis is going to be wrong the moment 
 - Devraj Kori
 - Mansi Panchamia
 
+# Contributors (Spring 2020)
+=======
+- Sean Cuff
+- Sonal Das
+
 Faculty: Chris Goranson  
 =======
 
@@ -201,11 +206,8 @@ Other contributors can be found in the contributors section of the Github repo.
 
 ## Image Source
 https://icons8.com/ouch/
-
 https://iconscout.com/free-illustrations
-
 https://undraw.co/illustrations
-
 https://codepen.io/erinesullivan/pen/qGrdGV
 
 
