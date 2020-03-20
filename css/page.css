@@ -65,7 +65,6 @@ body {
 .bb-custom-firstpage h1 span {
 	display: block;
 	font-size: 50%;
-	opacity: 0.5;
 	padding: 0 0 0.6em 0.1em;
 }
 
@@ -175,5 +174,17 @@ body {
 	.bb-custom-side {
 		font-size: 60%;
 	}
+}
+
+/* Media Queries: Tablet Landscape */
+@media screen and (max-width: 1060px) {
+    #primary { width:67%; }
+    #secondary { width:30%; margin-left:3%;}  
+}
+
+/* Media Queries: Tabled Portrait */
+@media screen and (max-width: 768px) {
+    #primary { width:100%; }
+    #secondary { width:100%; margin:0; border:none; }
 }
 
